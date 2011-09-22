@@ -1,0 +1,8 @@
+Version 1.3
+Width 962
+Height 543
+Samples per pixel 1
+Motion model: affine
+CoC coefficients (coc radius = C0/w+C1): -15.242497,19.053122
+Encoding = binary
+x,y,z/w,w,u,v,t,r,g,b,a,mv_x,mv_y,mv_w,dwdx,dwdy

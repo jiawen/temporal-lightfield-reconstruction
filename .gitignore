@@ -1,0 +1,8 @@
+*.suo
+*.pdb
+desktop.ini
+Thumbs.db
+.DS_Store
+._.DS_Store
+._AppleDouble
+state_reconstruction_app*.dat
